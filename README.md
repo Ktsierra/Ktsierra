@@ -13,12 +13,12 @@ I build software, and the systems it runs on. South Florida.</p>
 
 ### About me
 
-- 🏢 Founder & engineer at **[NovaEdge Tech](https://novaedgetechnology.com)**, building **SkyVault**, a multi-tenant SaaS for aviation MRO shops
-- 🛠️ IT Manager & Developer at **JJA Aviation**: I run identity, devices, network, voice and monitoring for ~100 people, and build their internal software
-- ☁️ AWS Certified Cloud Practitioner · [verify](https://www.credly.com/badges/88872f87-eb31-42ce-87cb-f0d46b991463)
-- 🌱 Open source: merged contribution to [aws-amplify/amplify-data #671](https://github.com/aws-amplify/amplify-data/pull/671)
-- 📡 Started in telecom (fiber, cell sites, GPON) and research (Python gait-analysis models). B.S. Telecommunications & Electronics Engineering, CUJAE
-- 💼 Open to software, cloud, network & DevOps roles
+-  Founder & engineer at **[NovaEdge Tech](https://novaedgetechnology.com)**, building **SkyVault**, a multi-tenant SaaS for aviation MRO shops
+-  IT Manager & Developer at **JJA Aviation**: I run identity, devices, network, voice and monitoring for ~100 people, and build their internal software
+-  AWS Certified Cloud Practitioner · [verify](https://www.credly.com/badges/88872f87-eb31-42ce-87cb-f0d46b991463)
+-  Open source: merged contribution to [aws-amplify/amplify-data #671](https://github.com/aws-amplify/amplify-data/pull/671)
+-  Started in telecom (fiber, cell sites, GPON) and research (Python gait-analysis models). B.S. Telecommunications & Electronics Engineering, CUJAE
+-  Open to software, cloud, network & DevOps roles
 
 ### Selected work
 
