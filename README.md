@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jose Sierra 👋</h1>
+<h1 align="center">Hi, I'm Jose Sierra</h1>
 <p align="center"><b>Software engineer · Full-stack, cloud, network & DevOps</b><br/>
 I build software, and the systems it runs on. South Florida.</p>
 
